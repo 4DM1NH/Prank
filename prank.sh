@@ -1,16 +1,16 @@
 #!/system/bin/sh
 # Prank link github
-clear
+#clear
 echo
-sleep 1
+#sleep 1
 figlet "Tools"
-sleep 1
+#sleep 1
 echo "===================================="
 echo " Author : 4DM1NH"
 echo " Github : https://github.com/4DM1NH"
 echo "===================================="
 echo
-sleep 1
+#sleep 1
 echo "Dipilih Gan"
 echo "[1] DarkFb"
 echo "[2] LiteDdos"
